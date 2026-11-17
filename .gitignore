@@ -1,0 +1,26 @@
+# Secretos: NUNCA se suben
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos subidos por usuarios (pósters)
+backend_API/uploads/*
+!backend_API/uploads/.gitkeep
+
+# Flutter
+flutter_application_1/.dart_tool/
+flutter_application_1/build/
+flutter_application_1/.flutter-plugins*
+flutter_application_1/.packages
+
+# Editor / sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
