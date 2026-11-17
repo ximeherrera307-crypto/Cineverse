@@ -113,5 +113,3 @@ Con la app abierta en Chrome pulsa **F12** y luego **Ctrl+Shift+M** (modo dispos
 
 Si no configuras el correo, el código de recuperación se imprime en la terminal de uvicorn (modo pruebas).
 
-## Capturas
-_Agregar aquí capturas de inicio, detalle, formulario y notificaciones en celular, tablet y escritorio._
